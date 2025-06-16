@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá, me chamo Matheus
 
-<!--
-**matheus5938/matheus5938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Desenvolvedor Full-stack
+<div>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=matheus5938&show_icons=true&theme=blueberry&count_private=true)"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus5938&layout=compact&theme=blueberry)"/>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div styl"display: inline_block"><br>
+  <img align="center" alt="html5"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+  <img align="center" alt="css3"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+  <img align="center" alt="javascript"  width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="react.js"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+  <img align="center" alt="mySQL"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Java"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/matheus-pinheiro07" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" target="_blank"></a>
+</div>
