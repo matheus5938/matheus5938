@@ -1,4 +1,4 @@
-## Olá, me chamo Matheus
+# Olá, me chamo Matheus
 
 - 👨‍💻 Desenvolvedor Full-stack
 <div>
@@ -9,13 +9,15 @@
 ##
 
 <div styl"display: inline_block"><br>
-  <img align="center" alt="html5"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-  <img align="center" alt="css3"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-  <img align="center" alt="javascript"  width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="react.js"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-  <img align="center" alt="mySQL"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Java"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="spring" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img align="center" alt="html5"  width="50" margin-right="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+  <img align="center" alt="css3"  width="50" margin-right="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+  <img align="center" alt="javascript"  width="38" padding-right="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="react.js"  width="50" padding-right="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+  <img align="center" alt="mySQL"  width="50" padding-right="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Java"  width="50" padding-right="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="spring" width="40" padding-right="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img align="center" alt="spring" width="40" padding-right="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+  <img align="center" alt="spring" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
 
 ##
