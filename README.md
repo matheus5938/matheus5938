@@ -3,7 +3,7 @@
 - 👨‍💻 Desenvolvedor Full-stack
 <div>
      <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=matheus5938&show_icons=true&theme=blueberry&count_private=true)"/>
-     
+     <img width="355"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus5938&layout=compact&langs_count-16&theme=blueberry"/>
 </div>
 
 ##
