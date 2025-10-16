@@ -9,15 +9,15 @@
 ##
 ## Tecnologias
 <div styl"display: inline_block"><br>
-  <img align="center" alt="html5"       width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>   &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="css3"        width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="javascript"  width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="react.js"    width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>  &nbsp;&nbsp;&nbsp&nbsp;
-  <img align="center" alt="mySQL"       width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Java"        width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="spring"      width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="figma"       width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="git"         width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="center" alt="html5"       width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>   &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="css3"        width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="javascript"  width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="react.js"    width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>  &nbsp;&nbsp;&nbsp&nbsp;
+  <img align="center" alt="mySQL"       width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Java"        width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="spring"      width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="figma"       width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="git"         width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
 
 ##
