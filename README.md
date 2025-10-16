@@ -17,7 +17,8 @@
   <img align="center" alt="Java"        width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="spring"      width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="figma"       width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="git"         width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="center" alt="git"         width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+     <img align="center" alt="git"         width="50" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/>
 </div>
 
 ##
