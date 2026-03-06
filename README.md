@@ -1,9 +1,9 @@
-# Olá, me chamo Matheus
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Matheus;Back-End+Developer;Java+%7C+Spring+Boot"/>
 
 - 👨‍💻 Desenvolvedor Back-End
 <div>
-     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=matheus5938&show_icons=true&theme=blueberry&count_private=true)"/>
-     <img width="355"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus5938&layout=compact&langs_count-16&theme=blueberry"/>
+     <img src="https://readme-stats-fast.vercel.app/api?username=matheus5938&show_icons=true&theme=radical" />
+     <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=matheus5938&layout=compact&theme=radical" />
 </div>
 
 ##
