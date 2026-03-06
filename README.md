@@ -18,12 +18,17 @@
   <img align="center" alt="spring"      width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="figma"       width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="git"         width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-     <img align="center" alt="git"         width="50" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/>
+  <img align="center" alt="git"         width="50" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Docker"       width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Linux"       width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
 ##
-### Contato
+
 <div>
-  <a href="https://www.linkedin.com/in/matheus-pinheiro07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150"></a>      &nbsp;&nbsp;&nbsp;
-  <a href="mailto:matheuspinheiro382@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150"></a>
+     <h2 align="center">Contato</h2>
+     <p align="center">
+  <a href="https://www.linkedin.com/in/matheus-pinheiro07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130"></a>      &nbsp;&nbsp;&nbsp;
+  <a href="mailto:matheuspinheiro382@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130"></a>
+     </p>
 </div>
